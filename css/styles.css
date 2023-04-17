@@ -380,6 +380,7 @@ ul {
 .footer {
   background: var(--dark);
   padding: 100px 0;
+  margin: 0;
 }
 .logo-futer {
   font-family: "Raleway", sans-serif;
@@ -411,7 +412,7 @@ ul {
   line-height: 24px;
   color: var(--cold);
   margin-bottom: 16px;
-  margin-right: 120px
+  margin-right: 120px;
 }
 
 .search-btn {
