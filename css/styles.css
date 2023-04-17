@@ -63,7 +63,7 @@ ul {
   width: 1158px;
   padding: 0 15px;
   padding: 0 15px 0 15px;
-  
+  margin: 0;
 }
 
 .navi {
@@ -456,6 +456,7 @@ margin-right: 120px;
   color:var(--white);
   margin-right: 120px;
 }
+
 .footer-soc-list{display: flex;
 gap: 16px;}
 .footer-item{
