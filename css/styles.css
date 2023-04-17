@@ -63,7 +63,7 @@ ul {
   width: 1158px;
   padding: 0 15px;
   padding: 0 15px 0 15px;
-  margin: 0 auto;
+  margin: 0;
 }
 
 .navi {
@@ -411,6 +411,7 @@ ul {
   line-height: 24px;
   color: var(--cold);
   margin-bottom: 16px;
+  margin-right: 120px
 }
 
 .search-btn {
