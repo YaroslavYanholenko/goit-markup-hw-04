@@ -382,7 +382,6 @@ ul {
 .footer {
   background: var(--dark);
   padding: 100px 0;
-  margin: 0;
 }
 .logo-futer {
   font-family: "Raleway", sans-serif;
@@ -449,13 +448,12 @@ ul {
 align-items: baseline;
 margin-right: 120px;
 }
-.social-footer{margin-bottom: 16px;
-  font-weight: 500;
+.social-footer{
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color:var(--white);
-  margin-right: 120px;
+  margin-bottom: 16px;
 }
 
 .footer-soc-list{display: flex;
