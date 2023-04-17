@@ -454,8 +454,8 @@ margin-right: 120px;
   letter-spacing: 0.02em;
   color:var(--white);
   margin-right: 120px;
-
 }
+.socfooter{margin-bottom: 16px;}
 .footer-soc-list{display: flex;
 gap: 16px;}
 .footer-item{
