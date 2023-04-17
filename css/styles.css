@@ -411,6 +411,7 @@ ul {
   line-height: 24px;
   color: var(--cold);
   max-width: 264px;
+  margin-bottom: 16px;
 }
 
 .search-btn {
@@ -449,7 +450,7 @@ margin-right: 120px;
   letter-spacing: 0.02em;
   color:var(--white);
   margin-bottom: 16px;
-  margin-right: 120px
+  margin-right: 120px;
 
 }
 .footer-soc-list{display: flex;
