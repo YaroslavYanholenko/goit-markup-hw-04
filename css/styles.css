@@ -439,9 +439,10 @@ ul {
   background-color: var(--ocian);
   border: 1px solid transparent;
 }
-.footer-cont{display: flex;
+.footer-cont{
+  display: flex;
 align-items: baseline;
-margin-right: 120px;
+gap: 120px;
 }
 .social-footer{
   font-weight: 500;
